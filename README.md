@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Elbadawy
 - 👀 I’m interested in self development
-- 🌱 I’m currently learning the college
+- 🌱 I’m currently learning the flutter
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me gmail - elbadawy55714@gmail.com
 
