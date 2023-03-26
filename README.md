@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/C4D16AQGms4n91gdR0w/profile-displaybackgroundimage-shrink_350_1400/0/1662913123360?e=1685577600&v=beta&t=e3rKZ6PAU-x2GRabDkxUIEUOAY6jlzxiVoEjUGYm-vs)](www.ahmedelbadawy.tk)
 <h1 align="center">Hi 👋, I'm Ahmed Elbadawy</h1>
 <h3 align="center">A passionate Flutter developer from Alexandria</h3>
 <img align ="right" alt="Coding" width = "400" src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -14,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ahmed-elbadawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-elbadawy" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ahmed.saed.90410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmed.saed.90410" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ahmed_elbadawy557/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmed_elbadawy557/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode.com/elbadawy55714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/elbadawy55714" height="30" width="40" /></a>
+<a href="linkedin.com/in/ahmed-elbadawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmed-elbadawy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahmed.saed.90410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmed.saed.90410" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ahmed_elbadawy557/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmed_elbadawy557/" height="30" width="40" /></a>
+<a href="leetcode.com/elbadawy55714" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/elbadawy55714" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
