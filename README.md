@@ -7,9 +7,9 @@
 
 
 - 👀 I’m interested in **mobile development**
-- 🌱 I’m currently learning the **flutter**
+- 🌱 I’m currently learning the **android**
 - 💞️ I’m looking to collaborate on **google**
-- 💬 Ask me about **flutter (android / ios)**
+- 💬 Ask me about **flutter**
 - 📫 How to reach me gmail - **elbadawy557140@gmail.com**
 - 👨‍💻 All of my projects are available at **www.ahmedelbadawy.tk**
 
