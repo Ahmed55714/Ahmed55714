@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed55714&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed55714" /> </p>
 
 
-- 👋 Hi, I’m Ahmed Elbadawy
 - 👀 I’m interested in **mobile development**
 - 🌱 I’m currently learning the **flutter**
 - 💞️ I’m looking to collaborate on **google**
