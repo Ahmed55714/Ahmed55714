@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning the **android**
 - 💞️ I’m looking to collaborate on **google**
 - 💬 Ask me about **flutter**
-- 📫 How to reach me gmail - **elbadawy557140@gmail.com**
+- 📫 How to reach me gmail - **elbaadawy.ahmed@gmail.com**
 - 👨‍💻 All of my projects are available at **www.ahmedelbadawy.tk**
 
 <h3 align="left">Connect with me:</h3>
