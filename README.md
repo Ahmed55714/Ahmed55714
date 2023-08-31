@@ -1,4 +1,4 @@
-[!(https://media.licdn.com/dms/image/C4D16AQGms4n91gdR0w/profile-displaybackgroundimage-shrink_350_1400/0/1662913123360?e=1685577600&v=beta&t=e3rKZ6PAU-x2GRabDkxUIEUOAY6jlzxiVoEjUGYm-vs)](https://www.ahmedelbadawy.tk)
+[![](https://media.licdn.com/dms/image/C4D16AQGms4n91gdR0w/profile-displaybackgroundimage-shrink_350_1400/0/1662913123360?e=1685577600&v=beta&t=e3rKZ6PAU-x2GRabDkxUIEUOAY6jlzxiVoEjUGYm-vs)](https://www.ahmedelbadawy.tk)
 
 <h1 align="center">Hi 👋, I'm Ahmed Elbadawy</h1>
 <h3 align="center">A passionate Flutter developer from Alexandria</h3>
@@ -8,10 +8,10 @@
 
 
 - 👀 I’m interested in **mobile development**
-- 🌱 I’m currently learning the **android**
+- 🌱 I’m currently learning the **Android**
 - 💞️ I’m looking to collaborate on **google**
 - 💬 Ask me about **flutter**
-- 📫 How to reach me gmail - **elbaadawy.ahmed@gmail.com**
+- 📫 How to reach me email - **elbaadawy.ahmed@gmail.com**
 - 👨‍💻 All of my projects are available at **www.ahmedelbadawy.tk**
 
 <h3 align="left">Connect with me:</h3>
