@@ -1,11 +1,11 @@
-[![badawy]([https://raw.githubusercontent.com/Ahmed55714/7Minutes-Workout/main/assets/76036752/c8b345de-ea5e-42eb-b8da-86b36d3011c6.jpg](https://drive.google.com/file/d/1eMweBhUE7UygF8kjXUyrKWGdEnlIbYsB/view?usp=sharing))](https://www.ahmedelbadawy.tk)
-
+[![badawy]([](https://drive.google.com/file/d/1eMweBhUE7UygF8kjXUyrKWGdEnlIbYsB/view?usp=sharing))](https://www.ahmedelbadawy.tk)
+<p href="https://www.ahmedelbadawy.tk" align="left"> <img src="https://drive.google.com/file/d/1eMweBhUE7UygF8kjXUyrKWGdEnlIbYsB/view?usp=sharing" alt="ahmed55714" /> </p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Elbadawy</h1>
 <h3 align="center">A passionate Flutter developer from Alexandria</h3>
 <img align ="right" alt="Coding" width = "400" src ="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed55714&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed55714" /> </p>
+<p href="https://www.ahmedelbadawy.tk" align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed55714&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed55714" /> </p>
 
 
 - 👀 I’m interested in **mobile development**
