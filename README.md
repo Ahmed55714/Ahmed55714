@@ -1,6 +1,6 @@
 [![Alt Text](https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/c8b345de-ea5e-42eb-b8da-86b36d3011c6)](https://www.ahmedelbadawy.tk)
 
-<a href="https://www.ahmedelbadawy.tk"> <img src="https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/c8b345de-ea5e-42eb-b8da-86b36d3011c6" alt="ahmed5574" /> </p>
+<a href="https://www.ahmedelbadawy.tk"> <img src="https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/c8b345de-ea5e-42eb-b8da-86b36d3011c6" alt="ahmed5574" /> </a>
 
 <h1 align="center">Hi 👋, I'm Ahmed Elbadawy</h1>
 <h3 align="center">A passionate Flutter developer from Alexandria</h3>
