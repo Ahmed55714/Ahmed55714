@@ -7,12 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed55714&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed55714" /> </p>
 
 
-- 👀 I’m interested in **mobile development**
+- 👀 I’m interested in **Mobile App Developer**
 - 🌱 I’m currently learning the **Android**
 - 💞️ I’m looking to collaborate on **google**
-- 💬 Ask me about **flutter**
+- 💬 Ask me about **flutter** & **Android**
 - 📫 How to reach me email - **elbaadawy.ahmed@gmail.com**
 - 👨‍💻 All of my projects are available at **www.ahmedelbadawy.tk**
+- 📄 Know about my experiences  [My Resume](https://drive.google.com/file/d/1juOwK97zfAae9P5aLhztWy7s1QnZLvp2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
