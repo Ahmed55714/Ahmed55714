@@ -8,7 +8,7 @@
 
 
 - 👀 I’m interested in **Mobile App Developer**
-- 🌱 I’m currently learning the **Android**
+- 🌱 I’m currently learning the **flutter** & **Android**
 - 💞️ I’m looking to collaborate on **google**
 - 💬 Ask me about **flutter** & **Android**
 - 📫 How to reach me email - **elbaadawy.ahmed@gmail.com**
