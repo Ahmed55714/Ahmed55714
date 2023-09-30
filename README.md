@@ -1,4 +1,5 @@
-![new banner finalll][https://github.com/Ahmed55714/7Minutes-Workout/assets/76036752/c9acdc4a-5eb2-4191-96f5-7df6c4575220]
+![Alt text](https://drive.google.com/file/d/1IfqnhxxAx9X8_9RDlz1JVaO0y6zFGVJw/view?usp=sharing)
+
 
 <h1 align="center">Hi 👋, I'm Ahmed Elbadawy</h1>
 <h3 align="center">A passionate Flutter developer from Alexandria</h3>
