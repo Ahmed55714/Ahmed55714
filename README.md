@@ -33,7 +33,7 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ahmed55714&theme=radical&show_icons=true&locale=en&layout=compact" alt="ahmed55714" /></p>
  
 
-<a href="https://app.daily.dev/badawy"><img src="https://api.daily.dev/devcards/08b1b91e5e70428a93a47082f6ebb948.png?r=2c0" width="200" alt="Badawy's Dev Card"/></a>
+<a align ="right" href="https://app.daily.dev/badawy"><img src="https://api.daily.dev/devcards/08b1b91e5e70428a93a47082f6ebb948.png?r=2c0" width="400" alt="Badawy's Dev Card"/></a>
 
   
   
