@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed55714&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed55714" /> </p>
 
 
-- 👀 I’m interested in **Mobile App Developer**
+- 👀 I’m currently work as **Mobile App Developer**
 - 🌱 I’m currently learning the **flutter** & **Android**
 - 💞️ I’m looking to collaborate on **google**
 - 💬 Ask me about **flutter** & **Android**
